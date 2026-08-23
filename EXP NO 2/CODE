@@ -1,0 +1,28 @@
+from google.colab import files
+uploaded = files.upload()
+
+import pandas as pd
+df_csv = pd.read_csv("/content/test_Y3wMUE5_7gLdaTN.csv")
+df_csv.head()
+
+df_excel = pd.read_excel("/content/Historicalinvesttemp.xlsx",
+sheet_name="Sheet1")
+df_excel.head()
+
+import pandas as pd
+import requests
+
+url = "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)"
+headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
+
+response = requests.get(url, headers=headers)
+print(response.status_code)  # should print 200
+
+tables = pd.read_html(response.text)
+print(len(tables))
+
+df_web = tables[0]
+df_web.head()
+df=pd.read_excel("/content/Historicalinvesttemp.xlsx")
+df.to_excel("/content/weeeeee.xlsx", index=False)
+df.head()
