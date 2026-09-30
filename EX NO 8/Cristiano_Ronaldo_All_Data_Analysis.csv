@@ -1,0 +1,52 @@
+Data_Type,Season,Year,Club,Team,Country,Country_or_National_Team,Competition,Competition_Name,Age,Appearances,Minutes,Goals,Assists,Goal_Involvements,Penalties_Scored,Yellow_Cards,Red_Cards,Goals_per_90,Assists_per_90,Goal_Involvement_per_90,Start_Year,Career_Phase
+Club,2002-03,2002,Sporting CP,Sporting CP,Portugal,Portugal,Primeira Liga,Primeira Liga,17,25,1080,3,3,6,0,1,0,0.25,0.25,0.5,2002,Early Manchester United
+Club,2003-04,2003,Manchester United,Manchester United,England,England,Premier League,Premier League,18,29,1555,4,4,8,0,5,1,0.23,0.23,0.46,2003,Early Manchester United
+International,2003,2003,,Portugal,,Portugal,International,International,19,2,,0,0,,,,,,,,2003,
+Club,2004-05,2004,Manchester United,Manchester United,England,England,Premier League,Premier League,19,33,2423,5,4,9,0,3,0,0.19,0.15,0.33,2004,Early Manchester United
+International,2004,2004,,Portugal,,Portugal,International,International,19,16,,7,5,,,,,,,,2004,
+Club,2005-06,2005,Manchester United,Manchester United,England,England,Premier League,Premier League,20,33,2286,9,6,15,0,8,1,0.35,0.24,0.59,2005,Early Manchester United
+International,2005,2005,,Portugal,,Portugal,International,International,20,11,,2,2,,,,,,,,2005,
+Club,2006-07,2006,Manchester United,Manchester United,England,England,Premier League,Premier League,21,34,2781,17,8,25,3,2,0,0.55,0.26,0.81,2006,Early Manchester United
+International,2006,2006,,Portugal,,Portugal,International,International,21,14,,6,1,,,,,,,,2006,
+Club,2007-08,2007,Manchester United,Manchester United,England,England,Premier League,Premier League,22,34,2747,31,6,37,4,5,1,1.02,0.2,1.21,2007,Early Manchester United
+International,2007,2007,,Portugal,,Portugal,International,International,22,8,,5,1,,,,,,,,2007,
+Club,2008-09,2008,Manchester United,Manchester United,England,England,Premier League,Premier League,23,33,2742,18,6,24,4,7,1,0.59,0.2,0.79,2008,Early Manchester United
+International,2008,2008,,Portugal,,Portugal,International,International,23,8,,2,1,,,,,,,,2008,
+Club,2009-10,2009,Real Madrid,Real Madrid,Spain,Spain,La Liga,La Liga,24,29,2461,26,7,33,4,5,2,0.95,0.26,1.21,2009,Real Madrid Peak
+International,2009,2009,,Portugal,,Portugal,International,International,24,7,,1,1,,,,,,,,2009,
+Club,2010-11,2010,Real Madrid,Real Madrid,Spain,Spain,La Liga,La Liga,25,34,2914,40,9,49,8,2,0,1.24,0.28,1.51,2010,Real Madrid Peak
+International,2010,2010,,Portugal,,Portugal,International,International,25,11,,3,0,,,,,,,,2010,
+Club,2011-12,2011,Real Madrid,Real Madrid,Spain,Spain,La Liga,La Liga,26,38,3350,46,12,58,12,4,0,1.24,0.32,1.56,2011,Real Madrid Peak
+International,2011,2011,,Portugal,,Portugal,International,International,26,13,,7,0,,,,,,,,2011,
+Club,2012-13,2012,Real Madrid,Real Madrid,Spain,Spain,La Liga,La Liga,27,34,2716,34,10,44,6,9,0,1.13,0.33,1.46,2012,Real Madrid Peak
+International,2012,2012,,Portugal,,Portugal,International,International,27,13,,5,1,,,,,,,,2012,
+Club,2013-14,2013,Real Madrid,Real Madrid,Spain,Spain,La Liga,La Liga,28,30,2534,31,9,40,6,4,1,1.1,0.32,1.42,2013,Real Madrid Peak
+International,2013,2013,,Portugal,,Portugal,International,International,28,9,,10,1,,,,,,,,2013,
+Club,2014-15,2014,Real Madrid,Real Madrid,Spain,Spain,La Liga,La Liga,29,35,3100,48,16,64,10,5,1,1.39,0.46,1.86,2014,Real Madrid Peak
+International,2014,2014,,Portugal,,Portugal,International,International,29,9,,5,2,,,,,,,,2014,
+Club,2015-16,2015,Real Madrid,Real Madrid,Spain,Spain,La Liga,La Liga,30,36,3183,35,9,44,6,2,0,0.99,0.25,1.24,2015,Real Madrid Peak
+International,2015,2015,,Portugal,,Portugal,International,International,30,8,,3,0,,,,,,,,2015,
+Club,2016-17,2016,Real Madrid,Real Madrid,Spain,Spain,La Liga,La Liga,31,29,2539,25,6,31,6,4,0,0.89,0.21,1.1,2016,Real Madrid Peak
+International,2016,2016,,Portugal,,Portugal,International,International,31,13,,13,3,,,,,,,,2016,
+Club,2017-18,2017,Real Madrid,Real Madrid,Spain,Spain,La Liga,La Liga,32,27,2285,26,5,31,3,1,0,1.02,0.2,1.22,2017,Real Madrid Peak
+International,2017,2017,,Portugal,,Portugal,International,International,32,11,,11,3,,,,,,,,2017,
+Club,2018-19,2018,Juventus,Juventus,Italy,Italy,Serie A,Serie A,33,31,2688,21,8,29,5,3,0,0.7,0.27,0.97,2018,Real Madrid Peak
+International,2018,2018,,Portugal,,Portugal,International,International,33,7,,6,4,,,,,,,,2018,
+Club,2019-20,2019,Juventus,Juventus,Italy,Italy,Serie A,Serie A,34,33,2917,31,5,36,12,3,0,0.96,0.15,1.11,2019,Juventus / Manchester United Return
+International,2019,2019,,Portugal,,Portugal,International,International,34,10,,14,0,,,,,,,,2019,
+Club,2020-21,2020,Juventus,Juventus,Italy,Italy,Serie A,Serie A,35,33,2802,29,2,31,6,3,0,0.93,0.06,1.0,2020,Juventus / Manchester United Return
+International,2020,2020,,Portugal,,Portugal,International,International,35,8,,3,0,,,,,,,,2020,
+Club,2021-22,2021,Juventus,Juventus,Italy,Italy,Serie A,Serie A,36,1,31,0,0,0,0,1,0,0.0,0.0,0.0,2021,Juventus / Manchester United Return
+Club,2021-22,2021,Manchester United,Manchester United,England,England,Premier League,Premier League,36,30,2456,18,3,21,3,8,0,0.66,0.11,0.77,2021,Juventus / Manchester United Return
+International,2021,2021,,Portugal,,Portugal,International,International,36,14,,13,0,,,,,,,,2021,
+Club,2022-23,2022,Al-Nassr,Al-Nassr,Saudi Arabia,Saudi Arabia,Saudi Pro League,Saudi Pro League,37,16,1433,15,2,17,0,3,0,0.94,0.13,1.07,2022,Juventus / Manchester United Return
+Club,2022-23,2022,Manchester United,Manchester United,England,England,Premier League,Premier League,37,10,525,1,0,1,0,2,0,0.17,0.0,0.17,2022,Juventus / Manchester United Return
+International,2022,2022,,Portugal,,Portugal,International,International,37,12,,3,4,,,,,,,,2022,
+Club,2023-24,2023,Al-Nassr,Al-Nassr,Saudi Arabia,Saudi Arabia,Saudi Pro League,Saudi Pro League,38,31,2645,35,11,46,8,2,0,1.19,0.37,1.57,2023,Al-Nassr Era
+International,2023,2023,,Portugal,,Portugal,International,International,38,9,,10,3,,,,,,,,2023,
+Club,2024-25,2024,Al-Nassr,Al-Nassr,Saudi Arabia,Saudi Arabia,Saudi Pro League,Saudi Pro League,39,30,2620,25,3,28,8,2,0,0.86,0.1,0.96,2024,Al-Nassr Era
+International,2024,2024,,Portugal,,Portugal,International,International,39,10,,7,0,,,,,,,,2024,
+Club,2025-26,2025,Al-Nassr,Al-Nassr,Saudi Arabia,Saudi Arabia,Saudi Pro League,Saudi Pro League,40,30,2610,28,2,30,6,2,0,0.97,0.07,1.03,2025,Al-Nassr Era
+International,2025,2025,,Portugal,,Portugal,International,International,40,14,,8,0,,,,,,,,2025,
+Club,2026-27*,2026,Al-Nassr,Al-Nassr,Saudi Arabia,Saudi Arabia,Saudi Pro League,Saudi Pro League,41,6,423,3,0,3,0,0,0,0.64,0.0,0.64,2026,Al-Nassr Era
+International,2026*,2026*,,Portugal,,Portugal,International,International,41,8,,3,0,,,,,,,,2026,
